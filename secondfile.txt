@@ -1,1 +1,4 @@
-This is uploaded from other_git
+This is uploaded from other_git.
+did you create the third file in your git-check?
+
+
